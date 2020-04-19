@@ -1,2 +1,2 @@
 # francoisrh.github.io
-Personnal portfolio on :octocat:
+Personnal portfolio on Github :octocat:
